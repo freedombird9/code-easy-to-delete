@@ -220,6 +220,8 @@ Feature flag并不是命令行开关，它是一种分离功能发布与合并�
 
 好的代码总是易于删除的代码。
 
+译者：张咏枫
+
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
 
 [blog]: http://blog.yongfengzhang.com/cn/blog/programming-is-terrible/
