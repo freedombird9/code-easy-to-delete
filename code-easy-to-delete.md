@@ -70,7 +70,7 @@ Welcome to follow me on [Github], and here's my [blog].
 
 就像复制粘贴一样，我们会重复部分代码以避免引入依赖性，以获得灵活度，代价则是冗余。
 
-需要模版的库通常有网络协议、有线格式（wire formats）、解析套件，或者很难将策略（一个程序应该做的）和协议（一个程序能做的）交织起来而又不限制可选项的东西。这种代码是很难被删除的：与其他的电脑通信或者处理不同的文件通常是一种必需，而我们永远不想让业务逻辑充斥其中。
+需要模版的库通常有网络协议、数据传输格式（wire format）、解析套件，或者很难将策略（一个程序应该做的）和协议（一个程序能做的）交织起来而又不限制可选项的东西。这种代码是很难被删除的：与其他的电脑通信或者处理不同的文件通常是一种必需，而我们永远不想让业务逻辑充斥其中。
 
 写模版不是在练习代码复用：我们尽可能将变化频繁的部分和相对更稳定的部分分隔开。应最小化库的依赖性或责任，即使我们必须通过模版来使用它们。
 
@@ -232,7 +232,15 @@ Feature flag 并不是命令行开关，它是一种分离功能发布与合并�
 
 译者：张咏枫
 
+#### 修改与纠错
+
+感谢[RednaxelaFX]同学指出了我对 wire format 的翻译问题。其更恰当的翻译应该是「程序传输格式」，我已经做出了修改。这个术语具体的含义可见[「以Python为例讨论高级编程语言程序的wire format与校验」]。
+
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
+
+[RednaxelaFX]: http://rednaxelafx.iteye.com/blog/profile
+
+[「以Python为例讨论高级编程语言程序的wire format与校验」]: http://rednaxelafx.iteye.com/blog/382429
 
 [blog]: http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/
 [Github]: https://github.com/freedombird9
