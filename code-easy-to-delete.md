@@ -234,7 +234,7 @@ Feature flag 并不是命令行开关，它是一种分离功能发布与合并�
 
 #### 修改与纠错
 
-感谢[RednaxelaFX]同学指出了我对 wire format 的翻译问题。其更恰当的翻译应该是「程序传输格式」，我已经做出了修改。这个术语具体的含义可见[「以Python为例讨论高级编程语言程序的wire format与校验」]。
+感谢 [RednaxelaFX] 同学指出了我对 wire format 的翻译问题。其更恰当的翻译应该是「程序传输格式」，我已经做出了修改。这个术语具体的含义可见[「以Python为例讨论高级编程语言程序的wire format与校验」]。
 
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
 
