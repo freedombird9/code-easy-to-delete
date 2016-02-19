@@ -234,5 +234,5 @@ Feature flag 并不是命令行开关，它是一种分离功能发布与合并�
 
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
 
-[blog]: http://blog.yongfengzhang.com/cn/blog/programming-is-terrible/
+[blog]: http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/
 [Github]: https://github.com/freedombird9

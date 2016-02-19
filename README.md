@@ -21,4 +21,4 @@
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
 
 [秋兄]: https://github.com/liaohuqiu
-[这里]: http://blog.yongfengzhang.com/cn/blog/programming-is-terrible/
+[这里]: http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/
