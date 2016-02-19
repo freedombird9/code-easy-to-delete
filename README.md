@@ -6,7 +6,7 @@
 
 初读文章，可能会有抽象、晦涩之感。但多读几遍之后，其主旨就会变的清晰。
 
-三个晚上的奋战，有了这篇中文翻译，与大家分享，希望对读者有所助益。
+一个晚上的彻夜不眠，有了这篇中文翻译，与大家分享，希望对读者有所助益。
 
 水平有限，还望大家多多指点。
 
@@ -16,7 +16,9 @@
 
 翻译自：[Write code that is easy to delete, not easy to extend]
 
+本文也发表在了我的博客上，点击[这里]阅读全文
 
 [Write code that is easy to delete, not easy to extend]: http://programmingisterrible.com/
 
 [秋兄]: https://github.com/liaohuqiu
+[这里]: http://blog.yongfengzhang.com/cn/blog/programming-is-terrible/
