@@ -6,7 +6,7 @@ Welcome to follow me on [Github], and here's my [blog].
 
 编程是一件很糟糕的事 —— *在荒废了自己的一生之后所学到的东西*
 
-#### 要写容易删除，而不容易扩展的代码。
+#### 要写容易删除，而不是容易扩展的代码。
 <p>
 </p>
 <div class='quote'>
